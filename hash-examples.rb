@@ -17,3 +17,14 @@ car = {
     genus: "Vulpes",
     species: "Vulpes vulpes"
   }
+
+customer = {
+  first_name: "Fregory",
+  last_name: "Frog",
+  street_address: "4272 Firefly Pond",
+  city: "Big Green",
+  state: "Colorado",
+  zip: "80918",
+  phone: "719-329-8480",
+  rewards_member: "true"
+}
